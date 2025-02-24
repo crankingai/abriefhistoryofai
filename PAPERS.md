@@ -1,4 +1,4 @@
-## Key Papers in AI History
+# Key Papers in AI History
 
 | Year | Paper Title | Authors | Description | Link |
 |------|-------------|---------|-------------|------|
