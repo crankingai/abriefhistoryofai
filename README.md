@@ -1,5 +1,7 @@
 # A Brief History of AI
 
+This content is also available as **A Brief History of AI** from [abriefhistoryofai.org]](https://abriefhistoryofai.org/).
+
 > With a respectful nod to [Professor Stephen Hawking](https://royalsocietypublishing.org/doi/10.1098/rsbm.2019.0001), as this title is inspired by his [A Brief History of Time](https://www.fisica.net/relatividade/stephen_hawking_a_brief_history_of_time.pdf) [masterpiece](https://simple.wikipedia.org/wiki/A_Brief_History_of_Time).
 
 Let's start with a simple two-slide brief history of AI. (Find the PowerPoint deck [here](./ABriefSlideshow.pptx).) A narrative follows.
