@@ -1,10 +1,8 @@
 # A Brief History of AI
 
-> A respectful nod to [Professor Stephen Hawking](https://royalsocietypublishing.org/doi/10.1098/rsbm.2019.0001) because this title is inspired by his [A Brief History of Time](https://www.fisica.net/relatividade/stephen_hawking_a_brief_history_of_time.pdf) [masterpiece](https://simple.wikipedia.org/wiki/A_Brief_History_of_Time).
+> With a respectful nod to [Professor Stephen Hawking](https://royalsocietypublishing.org/doi/10.1098/rsbm.2019.0001), as this title is inspired by his [A Brief History of Time](https://www.fisica.net/relatividade/stephen_hawking_a_brief_history_of_time.pdf) [masterpiece](https://simple.wikipedia.org/wiki/A_Brief_History_of_Time).
 
-Let's start with a single slide brief history of AI.
-
-There's a PowerPoint slide elsewhere in this repo. A narrative follows.
+Let's start with a simple two-slide brief history of AI. (Find the PowerPoint deck [here](./ABriefSlideshow.pptx).) A narrative follows.
 
 Some academics got together in 1956 when John McCarthy organized the Dartmouth Summer Research Project, where he coined the term "artificial intelligence." AI as a formal field of study is born.
 
